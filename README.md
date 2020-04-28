@@ -1,5 +1,7 @@
 # acronis_task2
 
+# Demo: [demo task 2](https://nikolaits.github.io/acronis_task2/)
+
 ## Project setup
 ```
 npm install
